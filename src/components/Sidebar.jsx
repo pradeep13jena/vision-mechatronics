@@ -187,7 +187,7 @@ const Sidebar = () => {
 
         {/* Contact */}
         <Link
-          to="/contact"
+          to="/contactus"
           className="text-gray-700 text-lg font-medium"
           onClick={() => dispatch(closeSidebar())}
         >
