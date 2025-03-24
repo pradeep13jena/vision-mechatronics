@@ -32,7 +32,7 @@ const slides = [
     image:
       "https://ik.imagekit.io/kf28wicizj/visionMechatronics/daniele-colucci-OtXJhYjbKeg-unsplash.jpg?updatedAt=1742628665395",
     title: "COMMITMENT TO FUTURE",
-    description: `We beleive in the power of energy and are committed to providing sustainable Energy Solutions to ensure access to affordable, reliable, 
+    description: `We believe in the power of energy and are committed to providing sustainable Energy Solutions to ensure access to affordable, reliable, 
     sustainable, and modern energy for all. We have solutions for those who want to help power the world with green energy`,
     buttonText: "Know More...",
     link: "/",
